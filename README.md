@@ -1,6 +1,6 @@
-<p align="center">
-  <strong><h1>Hi, I'm Jakub! 🖐</h1></strong>
-</p>
+
+  <strong><h1 align="center">Hi, I'm Jakub! 🖐</h1></strong>
+
 
 ---
 ## 🧬 About Me
