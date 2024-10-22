@@ -12,23 +12,54 @@ Java 22, HTML5, CSS3, JavaScript, MySQL, Python
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5
+/html5-original.svg" alt="java" width="40" height="40"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3
+/css3-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 **Frameworks:**
 Spring Boot 3, Spring 6, Spring Core, Spring MVC, Spring Security, REST API, JPA/Hibernate, Thymeleaf, JSON
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate
+/hibernate-original.svg" alt="spring" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json
+/json-original.svg" alt="spring" width="40" height="40"/>
+</p>
 
-![App Screenshot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 
 **Tools and Platforms:**
 Maven, Git, IntelliJ, Visual Studio Code, Postman, Android Studio, Figma
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven
+/maven-original.svg" alt="InteliJ" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git
+/git-original.svg" alt="InteliJ" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij
+/intellij-original.svg" alt="InteliJ" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode
+/vscode-original.svg" alt="InteliJ" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman
+/postman-original.svg" alt="InteliJ" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio
+/androidstudio-original.svg" alt="InteliJ" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma
+/figma-original.svg" alt="InteliJ" width="40" height="40"/> 
+</p>
 
 **Operating Systems:**
 Windows, Android
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11
+/windows11-original.svg" alt="spring" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android
+/android-original.svg" alt="spring" width="40" height="40"/>
 
+</p>
 
 ### 🚀 Notable Projects:
 **[AssetCraft](github.com/KRASIN24/AssetCraft)**: Dynamic full-stack e-commerce application inspired by platforms like the Asset Store and Unreal Marketplace. Features include a shopping cart, wishlist, user reviews, search, and filtering. It also provides robust user management with registration, login, and profile functionalities, and is designed for future role-based access control. (Tech: Java 22, Spring Boot 3, Hibernate, HTML5, CSS3, JavaScript, Maven, MySQL, Thymeleaf).
@@ -41,23 +72,3 @@ I hold a 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 in 𝐂�
 - JUnit, 
 - MongoDB,
 - AI & Machine Learning
-## Screenshots
-
-![App Screenshot](https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo.png)
-
-
-
-<!--
-**KRASIN24/KRASIN24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
