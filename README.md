@@ -12,54 +12,43 @@ Java 22, HTML5, CSS3, JavaScript, MySQL, Python
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5
-/html5-original.svg" alt="java" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3
-/css3-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 **Frameworks:**
 Spring Boot 3, Spring 6, Spring Core, Spring MVC, Spring Security, REST API, JPA/Hibernate, Thymeleaf, JSON
-<p align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate
-/hibernate-original.svg" alt="spring" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json
-/json-original.svg" alt="spring" width="40" height="40"/>
-</p>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="json" width="40" height="40"/>
+</p>
 
 **Tools and Platforms:**
 Maven, Git, IntelliJ, Visual Studio Code, Postman, Android Studio, Figma
+
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven
-/maven-original.svg" alt="InteliJ" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git
-/git-original.svg" alt="InteliJ" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij
-/intellij-original.svg" alt="InteliJ" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode
-/vscode-original.svg" alt="InteliJ" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman
-/postman-original.svg" alt="InteliJ" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio
-/androidstudio-original.svg" alt="InteliJ" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma
-/figma-original.svg" alt="InteliJ" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
 </p>
 
 **Operating Systems:**
 Windows, Android
-<p align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11
-/windows11-original.svg" alt="spring" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android
-/android-original.svg" alt="spring" width="40" height="40"/>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
 </p>
+
 
 ### 🚀 Notable Projects:
 **[AssetCraft](github.com/KRASIN24/AssetCraft)**: Dynamic full-stack e-commerce application inspired by platforms like the Asset Store and Unreal Marketplace. Features include a shopping cart, wishlist, user reviews, search, and filtering. It also provides robust user management with registration, login, and profile functionalities, and is designed for future role-based access control. (Tech: Java 22, Spring Boot 3, Hibernate, HTML5, CSS3, JavaScript, Maven, MySQL, Thymeleaf).
