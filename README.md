@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Jakub! 🖐</h1>
 
 
----
 ## 🧬 About Me
 **Java web development specialist** with expertise in **Java**, **Spring Boot**, **Hibernate**, **REST APIs**, and other technologies. Skilled in building **scalable**, **efficient applications** with a focus on **clean architecture** and **seamless user experiences**. Strong foundation in **OOP, data structures** and **algorithms**, enabling me to deliver **secure**, **robust solutions**. A **proactive problem-solver** with a passion for **continuous learning**, I thrive in **dynamic environments** that foster **collaboration** and **creativity**, consistently delivering **innovative solutions** that make an impact.
 
